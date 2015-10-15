@@ -4,6 +4,16 @@ Default jumlah method dan besaran file apk ketika dibuild
 
 ## Library
 - [DexCount - for method counter](https://github.com/KeepSafe/dexcount-gradle-plugin)
+- design-support
+- cardview
+- recyclerview
+- [Retrofit 2.0](https://github.com/square/retrofit)
+- [Picasso](https://github.com/square/picasso)
+- [RxAndroid]()
+- [RxJava]
+- [RxBinding]
+- [Timber]()
+- [Butterknife]()
 
 ### Build using gradle 
 ```
