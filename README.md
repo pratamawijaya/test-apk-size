@@ -67,3 +67,5 @@ Total time: 34.145 secs
 ```
 
 ### File Size
+- app-release.apk -> 1.2MB
+- app-debug.apk -> 1.2MB
